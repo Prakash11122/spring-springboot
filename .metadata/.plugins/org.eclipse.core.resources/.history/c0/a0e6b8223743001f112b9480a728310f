@@ -1,0 +1,18 @@
+package com.prakash.ioc;
+
+public class Airtel implements Sim {
+
+	@Override
+	public void Calling() {
+		System.out.println();
+		
+	}
+
+	@Override
+	public void Data() {
+		System.out.println();
+		
+		
+	}
+
+}

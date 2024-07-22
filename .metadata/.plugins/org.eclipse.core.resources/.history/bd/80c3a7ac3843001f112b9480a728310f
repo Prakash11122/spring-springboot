@@ -1,0 +1,17 @@
+package com.prakash.ioc;
+
+public class Mobile {
+
+	public static void main(String[] args) {
+//		Airtel airtel = new Airtel();
+//		airtel.Calling();
+//		airtel.Data();
+		
+		Vodafone vodafone = new Vodafone();
+		vodafone.Calling();
+		vodafone.Data();
+
+
+	}
+
+}
