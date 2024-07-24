@@ -393,3 +393,187 @@ java.lang.InterruptedException
 	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:130)
 	at org.eclipse.jdt.internal.ui.text.java.hover.JavaEditorTextHoverProxy.getHoverInfo2(JavaEditorTextHoverProxy.java:89)
 	at org.eclipse.jface.text.TextViewerHoverManager$1.run(TextViewerHoverManager.java:155)
+!SESSION 2024-07-23 09:48:17.560 -----------------------------------------------
+eclipse.buildId=4.31.0.20240307-1200
+java.version=21.0.2
+java.vendor=Oracle Corporation
+BootLoader constants: OS=macosx, ARCH=aarch64, WS=cocoa, NL=en_IN
+Framework arguments:  -product org.eclipse.epp.package.jee.product -keyring /Users/prakashpradhan/.eclipse_keyring
+Command-line arguments:  -os macosx -ws cocoa -arch aarch64 -product org.eclipse.epp.package.jee.product -keyring /Users/prakashpradhan/.eclipse_keyring
+
+!ENTRY org.eclipse.emf.ecore 2 0 2024-07-23 09:48:19.262
+!MESSAGE Both 'org.eclipse.jst.j2ee.core' and 'org.eclipse.jst.j2ee.core' register a package for 'application.xmi'
+
+!ENTRY ch.qos.logback.classic 1 0 2024-07-23 09:48:19.403
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY ch.qos.logback.classic 1 0 2024-07-23 09:48:22.919
+!MESSAGE Logback config file: /Users/prakashpradhan/Documents/java/spring&springboot/.metadata/.plugins/org.eclipse.m2e.logback/logback.2.6.0.20240217-1525.xml
+
+!ENTRY org.eclipse.ui 2 0 2024-07-23 09:48:23.142
+!MESSAGE Warnings while parsing the commands from the 'org.eclipse.ui.commands' and 'org.eclipse.ui.actionDefinitions' extension points.
+!SUBENTRY 1 org.eclipse.ui 2 0 2024-07-23 09:48:23.142
+!MESSAGE Commands should really have a category: plug-in='org.springframework.tooling.boot.ls', id='spring.initializr.addStarters', categoryId='org.eclipse.lsp4e.commandCategory'
+
+!ENTRY org.eclipse.ui 2 0 2024-07-23 09:48:23.315
+!MESSAGE Warnings while parsing the commands from the 'org.eclipse.ui.commands' and 'org.eclipse.ui.actionDefinitions' extension points.
+!SUBENTRY 1 org.eclipse.ui 2 0 2024-07-23 09:48:23.315
+!MESSAGE Commands should really have a category: plug-in='org.springframework.tooling.boot.ls', id='spring.initializr.addStarters', categoryId='org.eclipse.lsp4e.commandCategory'
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-07-23 09:48:25.452
+!MESSAGE Boot project ADDED: SpringBoot2AnnotationExOne
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-07-23 09:48:25.453
+!MESSAGE Starting Boot LS...
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-07-23 09:48:25.481
+!MESSAGE Started Boot LS process
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-07-23 09:48:25.481
+!MESSAGE Boot project ADDED: SpringBoot2AnnotationExThree
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-07-23 09:48:25.482
+!MESSAGE Boot project ADDED: SpringBootFirstApp
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-07-23 09:48:25.482
+!MESSAGE Boot project ADDED: springCoreConcept 
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2024-07-23 09:48:25.492
+!MESSAGE Command list starting LS: org.springframework.tooling.boot.ls
+START:
+/Library/Java/JavaVirtualMachines/jdk-21.jdk/Contents/Home/bin/java
+-cp
+/Applications/Eclipse.app/Contents/Eclipse/../../../../Users/prakashpradhan/.p2/pool/plugins/org.springframework.tooling.boot.ls_1.53.0.202403071323/servers/spring-boot-language-server/BOOT-INF/classes:/Applications/Eclipse.app/Contents/Eclipse/../../../../Users/prakashpradhan/.p2/pool/plugins/org.springframework.tooling.boot.ls_1.53.0.202403071323/servers/spring-boot-language-server/BOOT-INF/lib/*
+-Dsts.lsp.client=eclipse
+-Dlsp.completions.indentation.enable=true
+-Xmx1024m
+-XX:+HeapDumpOnOutOfMemoryError
+-XX:TieredStopAtLevel=1
+-Xlog:jni+resolve=off
+-Dspring.config.location=file:/Applications/Eclipse.app/Contents/Eclipse/../../../../Users/prakashpradhan/.p2/pool/plugins/org.springframework.tooling.boot.ls_1.53.0.202403071323/servers/spring-boot-language-server/BOOT-INF/classes/application.properties
+-XX:ErrorFile=/Users/prakashpradhan/Documents/java/spring&springboot/.metadata/.plugins/org.springframework.tooling.boot.ls/fatal-error-spring-boot_1721708305491
+org.springframework.ide.vscode.boot.app.BootLanguageServerBootApp
+--languageserver.hover-timeout=225
+END
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-07-23 09:48:25.492
+!MESSAGE DelegatingStreamConnectionProvider - Starting Boot LS
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2024-07-23 09:48:25.497
+!MESSAGE Started org.springframework.tooling.boot.ls LS process 17494
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-07-23 09:48:40.783
+!MESSAGE Classpath changed for project: SpringBoot2AnnotationExThree
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-07-23 09:48:40.784
+!MESSAGE Boot project REMOVED: SpringBoot2AnnotationExThree
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-07-23 09:48:40.785
+!MESSAGE Classpath changed for project: SpringBootFirstApp
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-07-23 09:48:40.785
+!MESSAGE Boot project REMOVED: SpringBootFirstApp
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-07-23 09:48:40.785
+!MESSAGE Classpath changed for project: springCoreConcept 
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-07-23 09:48:40.785
+!MESSAGE Boot project REMOVED: springCoreConcept 
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-07-23 09:48:40.785
+!MESSAGE Classpath changed for project: springIOC
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-07-23 09:48:49.404
+!MESSAGE Classpath changed for project: SpringBoot2AnnotationExOne
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-07-23 09:48:49.405
+!MESSAGE Boot project REMOVED: SpringBoot2AnnotationExOne
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-07-23 09:58:13.096
+!MESSAGE Classpath changed for project: SpringBoot2AnnotationExConfig-1
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-07-23 09:58:13.098
+!MESSAGE Boot project ADDED: SpringBoot2AnnotationExConfig-1
+!SESSION 2024-07-24 15:14:51.986 -----------------------------------------------
+eclipse.buildId=4.31.0.20240307-1200
+java.version=21.0.2
+java.vendor=Oracle Corporation
+BootLoader constants: OS=macosx, ARCH=aarch64, WS=cocoa, NL=en_IN
+Framework arguments:  -product org.eclipse.epp.package.jee.product -keyring /Users/prakashpradhan/.eclipse_keyring
+Command-line arguments:  -os macosx -ws cocoa -arch aarch64 -product org.eclipse.epp.package.jee.product -keyring /Users/prakashpradhan/.eclipse_keyring
+
+!ENTRY org.eclipse.emf.ecore 2 0 2024-07-24 15:14:53.340
+!MESSAGE Both 'org.eclipse.jst.j2ee.core' and 'org.eclipse.jst.j2ee.core' register a package for 'application.xmi'
+
+!ENTRY ch.qos.logback.classic 1 0 2024-07-24 15:14:53.472
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY ch.qos.logback.classic 1 0 2024-07-24 15:14:56.299
+!MESSAGE Logback config file: /Users/prakashpradhan/Documents/java/spring&springboot/.metadata/.plugins/org.eclipse.m2e.logback/logback.2.6.0.20240217-1525.xml
+
+!ENTRY org.eclipse.ui 2 0 2024-07-24 15:14:56.512
+!MESSAGE Warnings while parsing the commands from the 'org.eclipse.ui.commands' and 'org.eclipse.ui.actionDefinitions' extension points.
+!SUBENTRY 1 org.eclipse.ui 2 0 2024-07-24 15:14:56.512
+!MESSAGE Commands should really have a category: plug-in='org.springframework.tooling.boot.ls', id='spring.initializr.addStarters', categoryId='org.eclipse.lsp4e.commandCategory'
+
+!ENTRY org.eclipse.ui 2 0 2024-07-24 15:14:56.676
+!MESSAGE Warnings while parsing the commands from the 'org.eclipse.ui.commands' and 'org.eclipse.ui.actionDefinitions' extension points.
+!SUBENTRY 1 org.eclipse.ui 2 0 2024-07-24 15:14:56.676
+!MESSAGE Commands should really have a category: plug-in='org.springframework.tooling.boot.ls', id='spring.initializr.addStarters', categoryId='org.eclipse.lsp4e.commandCategory'
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-07-24 15:14:58.848
+!MESSAGE Boot project ADDED: SpringBoot2AnnotationExConfig-1
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-07-24 15:14:58.850
+!MESSAGE Starting Boot LS...
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-07-24 15:14:58.867
+!MESSAGE Started Boot LS process
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2024-07-24 15:14:58.879
+!MESSAGE Command list starting LS: org.springframework.tooling.boot.ls
+START:
+/Library/Java/JavaVirtualMachines/jdk-21.jdk/Contents/Home/bin/java
+-cp
+/Applications/Eclipse.app/Contents/Eclipse/../../../../Users/prakashpradhan/.p2/pool/plugins/org.springframework.tooling.boot.ls_1.53.0.202403071323/servers/spring-boot-language-server/BOOT-INF/classes:/Applications/Eclipse.app/Contents/Eclipse/../../../../Users/prakashpradhan/.p2/pool/plugins/org.springframework.tooling.boot.ls_1.53.0.202403071323/servers/spring-boot-language-server/BOOT-INF/lib/*
+-Dsts.lsp.client=eclipse
+-Dlsp.completions.indentation.enable=true
+-Xmx1024m
+-XX:+HeapDumpOnOutOfMemoryError
+-XX:TieredStopAtLevel=1
+-Xlog:jni+resolve=off
+-Dspring.config.location=file:/Applications/Eclipse.app/Contents/Eclipse/../../../../Users/prakashpradhan/.p2/pool/plugins/org.springframework.tooling.boot.ls_1.53.0.202403071323/servers/spring-boot-language-server/BOOT-INF/classes/application.properties
+-XX:ErrorFile=/Users/prakashpradhan/Documents/java/spring&springboot/.metadata/.plugins/org.springframework.tooling.boot.ls/fatal-error-spring-boot_1721814298878
+org.springframework.ide.vscode.boot.app.BootLanguageServerBootApp
+--languageserver.hover-timeout=225
+END
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-07-24 15:14:58.879
+!MESSAGE DelegatingStreamConnectionProvider - Starting Boot LS
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2024-07-24 15:14:58.883
+!MESSAGE Started org.springframework.tooling.boot.ls LS process 1904
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-07-24 15:17:34.569
+!MESSAGE Classpath changed for project: SpringBootConfigExOneApplication
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-07-24 15:17:34.573
+!MESSAGE Boot project ADDED: SpringBootConfigExOneApplication
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-07-24 15:18:12.143
+!MESSAGE Classpath changed for project: SpringBoot2AnnotationExConfig-1
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-07-24 15:18:12.144
+!MESSAGE Boot project REMOVED: SpringBoot2AnnotationExConfig-1
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-07-24 15:37:41.538
+!MESSAGE Classpath changed for project: SpringBootConfigExOneApplication
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-07-24 15:37:41.562
+!MESSAGE Classpath changed for project: SpringBootConfigExOneApplication
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-07-24 15:37:42.554
+!MESSAGE Classpath changed for project: SpringBootConfigExOneApplication
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-07-24 15:37:43.095
+!MESSAGE Classpath changed for project: SpringBootConfigExOneApplication
