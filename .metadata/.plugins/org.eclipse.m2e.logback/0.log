@@ -590,3 +590,133 @@
 2024-07-24 15:43:19,190 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
 2024-07-24 15:43:19,192 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
 2024-07-24 15:43:19,194 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/prakashpradhan/Documents/java/spring&springboot/SpringBootConfigExOneApplication/src/test/resources
+2024-07-24 18:36:53,911 [Worker-39: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: in.saiprakash:SpringBootConfigExOneApplication:0.0.1-SNAPSHOT @ /Users/prakashpradhan/Documents/java/spring&springboot/SpringBootConfigExOneApplication/pom.xml.
+2024-07-24 18:36:54,058 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-07-24 18:36:54,058 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-07-24 18:36:54,060 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/prakashpradhan/Documents/java/spring&springboot/SpringBootConfigExOneApplication/src/test/resources
+2024-07-24 19:12:13,454 [Worker-44: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: in.saiprakash:SpringBootConfigPropsExColleApplication:0.0.1-SNAPSHOT @ /Users/prakashpradhan/Documents/java/spring&springboot/SpringBootConfigPropsExColleApplication/pom.xml.
+2024-07-24 19:12:13,555 [Worker-44: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /SpringBootConfigPropsExColleApplication/src/main/java
+2024-07-24 19:12:13,555 [Worker-44: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /SpringBootConfigPropsExColleApplication/src/main/resources
+2024-07-24 19:12:13,556 [Worker-44: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /SpringBootConfigPropsExColleApplication/src/main/resources
+2024-07-24 19:12:13,557 [Worker-44: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /SpringBootConfigPropsExColleApplication/src/test/java
+2024-07-24 19:12:13,557 [Worker-44: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /SpringBootConfigPropsExColleApplication/src/test/resources
+2024-07-24 19:12:13,594 [Worker-44: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 0 sec
+2024-07-24 19:12:13,595 [Worker-44: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2024-07-24 19:12:13,667 [Worker-44: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: in.saiprakash:SpringBootConfigPropsExColleApplication:0.0.1-SNAPSHOT @ /Users/prakashpradhan/Documents/java/spring&springboot/SpringBootConfigPropsExColleApplication/pom.xml.
+2024-07-24 19:12:13,723 [Worker-44: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /SpringBootConfigPropsExColleApplication/src/main/java
+2024-07-24 19:12:13,723 [Worker-44: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /SpringBootConfigPropsExColleApplication/src/main/resources
+2024-07-24 19:12:13,723 [Worker-44: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /SpringBootConfigPropsExColleApplication/src/main/resources
+2024-07-24 19:12:13,723 [Worker-44: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /SpringBootConfigPropsExColleApplication/src/test/java
+2024-07-24 19:12:13,723 [Worker-44: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /SpringBootConfigPropsExColleApplication/src/test/resources
+2024-07-24 19:12:13,806 [Worker-44: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 0.00 sec, update config takes 0.00 sec 
+2024-07-24 19:12:14,050 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-07-24 19:12:14,056 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-07-24 19:12:14,058 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/prakashpradhan/Documents/java/spring&springboot/SpringBootConfigPropsExColleApplication/src/test/resources
+2024-07-24 19:13:03,780 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-07-24 19:13:03,785 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-07-24 19:13:03,787 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/prakashpradhan/Documents/java/spring&springboot/SpringBootConfigPropsExColleApplication/src/test/resources
+2024-07-24 19:14:52,245 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-07-24 19:14:52,250 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-07-24 19:14:52,251 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/prakashpradhan/Documents/java/spring&springboot/SpringBootConfigPropsExColleApplication/src/test/resources
+2024-07-24 19:16:07,790 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-07-24 19:16:07,805 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-07-24 19:16:07,807 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/prakashpradhan/Documents/java/spring&springboot/SpringBootConfigPropsExColleApplication/src/test/resources
+2024-07-24 19:16:47,794 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-07-24 19:16:47,800 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-07-24 19:16:47,801 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/prakashpradhan/Documents/java/spring&springboot/SpringBootConfigPropsExColleApplication/src/test/resources
+2024-07-24 19:17:38,051 [Worker-41: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: in.saiprakash:SpringBootConfigPropsExColleApplication:0.0.1-SNAPSHOT @ /Users/prakashpradhan/Documents/java/spring&springboot/SpringBootConfigPropsExColleApplication/pom.xml.
+2024-07-24 19:17:38,166 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-07-24 19:17:38,166 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-07-24 19:17:38,168 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/prakashpradhan/Documents/java/spring&springboot/SpringBootConfigPropsExColleApplication/src/test/resources
+2024-07-24 19:17:38,353 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-07-24 19:17:38,359 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-07-24 19:17:38,360 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/prakashpradhan/Documents/java/spring&springboot/SpringBootConfigPropsExColleApplication/src/test/resources
+2024-07-24 19:17:39,830 [Worker-42: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2024-07-24 19:17:39,895 [Worker-42: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: in.saiprakash:SpringBootConfigPropsExColleApplication:0.0.1-SNAPSHOT @ /Users/prakashpradhan/Documents/java/spring&springboot/SpringBootConfigPropsExColleApplication/pom.xml.
+2024-07-24 19:17:39,939 [Worker-42: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /SpringBootConfigPropsExColleApplication/src/main/java
+2024-07-24 19:17:39,939 [Worker-42: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /SpringBootConfigPropsExColleApplication/src/main/resources
+2024-07-24 19:17:39,939 [Worker-42: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /SpringBootConfigPropsExColleApplication/src/main/resources
+2024-07-24 19:17:39,939 [Worker-42: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /SpringBootConfigPropsExColleApplication/src/test/java
+2024-07-24 19:17:39,939 [Worker-42: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /SpringBootConfigPropsExColleApplication/src/test/resources
+2024-07-24 19:17:39,981 [Worker-42: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 0.00 sec, update config takes 0.00 sec 
+2024-07-24 19:17:40,462 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-07-24 19:17:40,472 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-07-24 19:17:40,477 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/prakashpradhan/Documents/java/spring&springboot/SpringBootConfigPropsExColleApplication/src/test/resources
+2024-07-24 19:18:42,859 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-07-24 19:18:42,864 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-07-24 19:18:42,865 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/prakashpradhan/Documents/java/spring&springboot/SpringBootConfigPropsExColleApplication/src/test/resources
+2024-07-24 19:21:35,735 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-07-24 19:21:35,743 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-07-24 19:21:35,744 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/prakashpradhan/Documents/java/spring&springboot/SpringBootConfigPropsExColleApplication/src/test/resources
+2024-07-24 19:21:54,174 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-07-24 19:21:54,179 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-07-24 19:21:54,181 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/prakashpradhan/Documents/java/spring&springboot/SpringBootConfigPropsExColleApplication/src/test/resources
+2024-07-24 19:25:40,237 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-07-24 19:25:40,247 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-07-24 19:25:40,248 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/prakashpradhan/Documents/java/spring&springboot/SpringBootConfigPropsExColleApplication/src/test/resources
+2024-07-24 19:25:48,464 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-07-24 19:25:48,474 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-07-24 19:25:48,475 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/prakashpradhan/Documents/java/spring&springboot/SpringBootConfigPropsExColleApplication/src/test/resources
+2024-07-24 19:26:56,612 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-07-24 19:26:56,620 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-07-24 19:26:56,622 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/prakashpradhan/Documents/java/spring&springboot/SpringBootConfigPropsExColleApplication/src/test/resources
+2024-07-24 19:28:09,253 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-07-24 19:28:09,257 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-07-24 19:28:09,259 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/prakashpradhan/Documents/java/spring&springboot/SpringBootConfigPropsExColleApplication/src/test/resources
+2024-07-24 19:29:52,745 [Worker-55: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-07-24 19:29:52,753 [Worker-55: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-07-24 19:29:52,755 [Worker-55: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/prakashpradhan/Documents/java/spring&springboot/SpringBootConfigPropsExColleApplication/src/test/resources
+2024-07-24 19:30:51,376 [Worker-55: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-07-24 19:30:51,384 [Worker-55: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-07-24 19:30:51,386 [Worker-55: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/prakashpradhan/Documents/java/spring&springboot/SpringBootConfigPropsExColleApplication/src/test/resources
+2024-07-24 19:31:09,626 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-07-24 19:31:09,632 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-07-24 19:31:09,634 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/prakashpradhan/Documents/java/spring&springboot/SpringBootConfigPropsExColleApplication/src/test/resources
+2024-07-24 19:31:28,330 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-07-24 19:31:28,337 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-07-24 19:31:28,339 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/prakashpradhan/Documents/java/spring&springboot/SpringBootConfigPropsExColleApplication/src/test/resources
+2024-07-24 19:31:41,919 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-07-24 19:31:41,927 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-07-24 19:31:41,930 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/prakashpradhan/Documents/java/spring&springboot/SpringBootConfigPropsExColleApplication/src/test/resources
+2024-07-24 19:31:52,612 [Worker-57: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-07-24 19:31:52,622 [Worker-57: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-07-24 19:31:52,624 [Worker-57: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/prakashpradhan/Documents/java/spring&springboot/SpringBootConfigPropsExColleApplication/src/test/resources
+2024-07-24 21:38:01,156 [Worker-59: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: in.saiprakash:SpringBootConfigPropsProperties:0.0.1-SNAPSHOT @ /Users/prakashpradhan/Documents/java/spring&springboot/SpringBootConfigPropsProperties/pom.xml.
+2024-07-24 21:38:01,246 [Worker-59: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /SpringBootConfigPropsProperties/src/main/java
+2024-07-24 21:38:01,246 [Worker-59: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /SpringBootConfigPropsProperties/src/main/resources
+2024-07-24 21:38:01,247 [Worker-59: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /SpringBootConfigPropsProperties/src/main/resources
+2024-07-24 21:38:01,248 [Worker-59: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /SpringBootConfigPropsProperties/src/test/java
+2024-07-24 21:38:01,248 [Worker-59: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /SpringBootConfigPropsProperties/src/test/resources
+2024-07-24 21:38:01,296 [Worker-59: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 0 sec
+2024-07-24 21:38:01,296 [Worker-59: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2024-07-24 21:38:01,361 [Worker-59: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: in.saiprakash:SpringBootConfigPropsProperties:0.0.1-SNAPSHOT @ /Users/prakashpradhan/Documents/java/spring&springboot/SpringBootConfigPropsProperties/pom.xml.
+2024-07-24 21:38:01,440 [Worker-59: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /SpringBootConfigPropsProperties/src/main/java
+2024-07-24 21:38:01,440 [Worker-59: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /SpringBootConfigPropsProperties/src/main/resources
+2024-07-24 21:38:01,441 [Worker-59: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /SpringBootConfigPropsProperties/src/main/resources
+2024-07-24 21:38:01,441 [Worker-59: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /SpringBootConfigPropsProperties/src/test/java
+2024-07-24 21:38:01,441 [Worker-59: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /SpringBootConfigPropsProperties/src/test/resources
+2024-07-24 21:38:01,573 [Worker-59: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 0.00 sec, update config takes 0.00 sec 
+2024-07-24 21:38:01,816 [Worker-63: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-07-24 21:38:01,822 [Worker-63: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-07-24 21:38:01,824 [Worker-63: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/prakashpradhan/Documents/java/spring&springboot/SpringBootConfigPropsProperties/src/test/resources
+2024-07-24 21:39:34,609 [Worker-63: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-07-24 21:39:34,613 [Worker-63: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-07-24 21:39:34,614 [Worker-63: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/prakashpradhan/Documents/java/spring&springboot/SpringBootConfigPropsProperties/src/test/resources
+2024-07-24 21:40:48,308 [Worker-60: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-07-24 21:40:48,310 [Worker-60: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-07-24 21:40:48,311 [Worker-60: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/prakashpradhan/Documents/java/spring&springboot/SpringBootConfigPropsProperties/src/test/resources
+2024-07-24 21:41:31,117 [Worker-60: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-07-24 21:41:31,119 [Worker-60: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-07-24 21:41:31,120 [Worker-60: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/prakashpradhan/Documents/java/spring&springboot/SpringBootConfigPropsProperties/src/test/resources
+2024-07-24 21:42:21,680 [Worker-64: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-07-24 21:42:21,682 [Worker-64: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-07-24 21:42:21,683 [Worker-64: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/prakashpradhan/Documents/java/spring&springboot/SpringBootConfigPropsProperties/src/test/resources
+2024-07-24 21:44:39,242 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-07-24 21:44:39,260 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-07-24 21:44:39,262 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/prakashpradhan/Documents/java/spring&springboot/SpringBootConfigPropsProperties/src/test/resources
+2024-07-24 21:46:59,702 [Worker-63: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-07-24 21:46:59,704 [Worker-63: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-07-24 21:46:59,706 [Worker-63: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/prakashpradhan/Documents/java/spring&springboot/SpringBootConfigPropsProperties/src/test/resources
+2024-07-24 21:49:23,069 [Worker-60: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-07-24 21:49:23,071 [Worker-60: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-07-24 21:49:23,073 [Worker-60: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/prakashpradhan/Documents/java/spring&springboot/SpringBootConfigPropsProperties/src/test/resources
