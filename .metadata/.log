@@ -1218,3 +1218,12 @@ END
 
 !ENTRY org.springframework.tooling.boot.ls 1 0 2024-07-27 11:03:08.693
 !MESSAGE Boot project ADDED: SpringBootProfileAnno
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-07-27 15:39:01.118
+!MESSAGE Classpath changed for project: SpringBootProfileAnno
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-07-27 15:39:02.927
+!MESSAGE Classpath changed for project: SpringBootProfileAnno
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-07-27 17:22:03.786
+!MESSAGE Classpath changed for project: SpringBootProfileAnno
