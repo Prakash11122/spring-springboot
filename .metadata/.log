@@ -5713,3 +5713,47 @@ java.util.concurrent.CompletionException: org.eclipse.lsp4j.jsonrpc.ResponseErro
 	at java.base/java.lang.Thread.run(Thread.java:1583)
 Caused by: org.eclipse.lsp4j.jsonrpc.ResponseErrorException: Internal error.
 	... 11 more
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-07-30 17:00:50.663
+!MESSAGE Classpath changed for project: SpringBoot-YEML-Configuration
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-07-30 17:00:50.672
+!MESSAGE Boot project REMOVED: SpringBoot-YEML-Configuration
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-07-30 17:00:50.672
+!MESSAGE Classpath changed for project: SpringBootProfileFallBack
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-07-30 17:00:50.672
+!MESSAGE Boot project REMOVED: SpringBootProfileFallBack
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-07-30 17:00:50.672
+!MESSAGE Classpath changed for project: SpringBootProfilesIncludeTest
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-07-30 17:00:50.673
+!MESSAGE Boot project REMOVED: SpringBootProfilesIncludeTest
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-07-30 17:00:56.964
+!MESSAGE Classpath changed for project: SpringBootProfileAnno
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-07-30 17:00:56.966
+!MESSAGE Boot project REMOVED: SpringBootProfileAnno
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-07-30 17:25:44.899
+!MESSAGE Classpath changed for project: SpringBootProfileAnno
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-07-30 17:25:44.905
+!MESSAGE Boot project ADDED: SpringBootProfileAnno
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 4 0 2024-07-30 17:25:44.917
+!MESSAGE Cannot invoke "org.eclipse.m2e.core.project.IMavenProjectFacade.getArtifactKey()" because "facade" is null
+!STACK 0
+java.lang.NullPointerException: Cannot invoke "org.eclipse.m2e.core.project.IMavenProjectFacade.getArtifactKey()" because "facade" is null
+	at org.springframework.tooling.jdt.ls.commons.classpath.ClasspathUtil.createProjectBuild(ClasspathUtil.java:235)
+	at org.springframework.tooling.jdt.ls.commons.classpath.SendClasspathNotificationsJob.run(SendClasspathNotificationsJob.java:146)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-07-30 23:46:13.720
+!MESSAGE Classpath changed for project: SpringBoot-SchedulingExOneApplication
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-07-30 23:46:13.728
+!MESSAGE Boot project ADDED: SpringBoot-SchedulingExOneApplication
