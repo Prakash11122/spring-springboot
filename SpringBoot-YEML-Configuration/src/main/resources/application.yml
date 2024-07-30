@@ -1,0 +1,31 @@
+#this is default profile
+
+my:
+  app:
+    driver: MYSQL-SERVER
+    url: JDBC-SERVER
+    
+
+---
+#this praku profile
+spring: 
+  profiles:
+    active:
+    - praku 
+  
+my:
+  app:
+    driver: MYSQL-PRAKU-SERVER
+    url: JDBC-PRAKU-SERVER      
+
+    
+---
+spring:
+  profiles:
+    active:
+    - sdev
+    
+my:
+  app:
+    driver: MYSQL-DEV-SERVER
+    url:  JDBC-DEV-SERVER        
